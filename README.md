@@ -1,0 +1,1 @@
+I have sucessfully Developed two Python-based projects: a Hangman Game and an AI Chatbot. These projects demonstrate core Python concepts such as functions, loops, conditional statements, and user interaction through an interactive console interface.
